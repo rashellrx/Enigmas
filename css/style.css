@@ -67,8 +67,11 @@ a:focus, a:hover {
 /*-- //Reset-Code --*/
 
 
-
-
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
 
 /*-- Index-Page-Styling --*/
 
