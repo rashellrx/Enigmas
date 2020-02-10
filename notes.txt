@@ -1,0 +1,8 @@
+Homepage
+-change the captions in the nav to descriptions of the 5 stories
+-change "about me" to brief of the enigmas
+-delete read more
+
+Storypage
+
+- VI design - color / font
